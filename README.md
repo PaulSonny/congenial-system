@@ -1,4 +1,9 @@
 # Useful iOS Developer Links
+<h1>Design</h1>
+<a href="http://iosdesign.ivomynttinen.com/">iOS Design Guidelines</a>
+<br />
+Designing iOS apps can be difficult sometimes, but finding correct and up-to-date information about all of Apples’ devices shouldn’t be. These design guidelines will help any designer who’s building neat things for iOS get started within seconds.
+
 <h1>Development</h1>
 
 <h2>Plugins</h2>
