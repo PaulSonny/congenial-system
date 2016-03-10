@@ -11,6 +11,11 @@ This plug-in adds a menu item for interacting with CocoaPods. Useful if you don�
 <br />
 An open source set of classes for utilizing icon fonts, such as <a href="http://fortawesome.github.io/Font-Awesome/">Font Awesome</a> in your iOS app. Quickly and easily have an icon in whatever pixel dimensions you require. Since fonts by nature can be scaled up and down with ease, this makes a really nice way to ship & use your icons without having to export multiple versions for the sizes you require.
 
+<h1>Deployment</h2>
+<a href="http://testflightapp.com/">TestFlight</a>
+<br />
+A free service, similar to Hockey App. We’ve used TestFlight with great success for easily distributing apps and collecting feedback from our users. My only wish is that they’d start charging for the service. Also includes analytics and crash reporting, but we don’t use those features.
+
 <h1>Analytics</h1>
 <a href="http://flurry.com/">Flurry</a>
 <br />
